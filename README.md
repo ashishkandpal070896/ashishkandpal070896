@@ -1,5 +1,5 @@
 
-<img align="right" alt="coding" width="400" src=https://github.com/Gaurav-creater317/Gaurav-creater317/blob/main/Gaurav.gif>
+<img align="center" alt="coding" width="400" src=https://github.com/Gaurav-creater317/Gaurav-creater317/blob/main/Gaurav.gif>
 
 
 <h1 align="center">Hi 👋, I'm Ashish Kandpal</h1>
